@@ -1,0 +1,2 @@
+
+ export {setLanguage} from './resourcesActionCreator';

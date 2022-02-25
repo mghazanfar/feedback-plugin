@@ -1,0 +1,1 @@
+Just import FeedbackPlugin component and use the whole feature as a standalone component. It's super simple!
