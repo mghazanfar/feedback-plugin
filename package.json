@@ -1,6 +1,6 @@
 {
   "name": "floatingratings",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "type": "module",
   "ssr": false,
   "main": "index.js",
@@ -11,22 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/mghazanfar/feedback-plugin.git"
   },
-  "keywords": [
-    "react-native",
-    "react-component",
-    "react-native-component",
-    "react",
-    "react native",
-    "mobile",
-    "ios",
-    "android",
-    "ui",
-    "rating",
-    "feedback"
-  ],
   "dependencies": {
     "@expo/react-native-action-sheet": "^3.10.0",
-    "@react-native-community/async-storage": "^1.12.1",
+    "@react-native-async-storage/async-storage": "^1.16.1",
     "@react-native-community/netinfo": "^7.1.7",
     "@react-navigation/native": "^6.0.6",
     "@react-navigation/native-stack": "^6.2.5",
@@ -70,5 +57,18 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "rating",
+    "feedback"
+  ]
 }
