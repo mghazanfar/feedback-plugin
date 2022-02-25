@@ -1,10 +1,29 @@
 {
   "name": "floatingratings",
-  "version": "0.0.1",
-  "private": true,
+  "version": "0.0.2",
+  "type": "module",
+  "ssr": false,
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mghazanfar/feedback-plugin.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "rating",
+    "feedback"
+  ],
   "dependencies": {
     "@expo/react-native-action-sheet": "^3.10.0",
     "@react-native-community/async-storage": "^1.12.1",
